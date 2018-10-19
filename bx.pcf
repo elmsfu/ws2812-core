@@ -1,0 +1,13 @@
+###################################
+# Physical constraints file (pcf) #
+# for iCE40HX8K-CT256             #
+###################################
+
+
+### Clock
+set_io clk B2
+
+### LEDs
+set_io ws_data A6
+
+

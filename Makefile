@@ -1,7 +1,7 @@
-PACKAGE = ct256
-DEVICE = hx8k
+PACKAGE = cm81
+DEVICE = lp8k
 PROJ = ws2812
-PIN_DEF = 8k.pcf
+PIN_DEF = bx.pcf
 SHELL := /bin/bash # Use bash syntax
 BUILD_DIR = ./build
 SRC_DIR = ./
